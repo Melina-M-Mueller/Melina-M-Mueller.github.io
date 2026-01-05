@@ -9,10 +9,13 @@
 
 main:
   - title: "Education"
-    url: /education/
+    url: "#education" #/education/
 
   - title: "Publications"
-    url: /publications/
+    url: "#publications" #/publications/
+
+  - title: "CV"
+    url: "#cv" # /cv/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -25,8 +28,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/

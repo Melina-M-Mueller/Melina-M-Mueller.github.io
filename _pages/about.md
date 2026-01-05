@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computational Neuroscience in the [Institute for Adaptive and Neural Computation](https://informatics.ed.ac.uk/anc) at [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), where I am supervised by [Nina Kudryashova](https://ninelk.github.io/) and [Matthias H Hennig](https://homepages.inf.ed.ac.uk/mhennig/index.html)
+<section id="about">
+## About Me
 
+I am a PhD student in Computational Neuroscience in the [Institute for Adaptive and Neural Computation](https://informatics.ed.ac.uk/anc) at [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), where I am supervised by [Nina Kudryashova](https://ninelk.github.io/) and [Matthias H Hennig](https://homepages.inf.ed.ac.uk/mhennig/index.html)
+</section>
 
 <section id="education">
   <h2>Education</h2>
@@ -29,3 +32,15 @@ I am a PhD student in Computational Neuroscience in the [Institute for Adaptive 
     </div>
   </div>
 </section>
+
+<section id="publications">
+## Publications
+- Publications 1
+- Publications 2
+</section>
+
+<section id="cv">
+## CV
+- Publications 1
+- Publications 2
+</cv>
