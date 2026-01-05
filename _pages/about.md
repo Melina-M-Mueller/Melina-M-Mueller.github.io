@@ -35,7 +35,7 @@ redirect_from:
 
 <section id="publications">
   <h2>Publications</h2>
-    <b>Mueller, M. </b>, Hancock, P. J., Cunningham, E. K., Watt, R. J., Carragher, D., & Bobak, A. K.(2024). Automated face recognition assists with low-prevalence face identity mismatches but can bias users. British Journal of Psychology. https://doi.org/10.1111/bjop.12745
+    <b>Mueller, M. </b>, Hancock, P. J., Cunningham, E. K., Watt, R. J., Carragher, D., & Bobak, A. K.(2024). Automated face recognition assists with low-prevalence face identity mismatches but can bias users. British Journal of Psychology. <a href="https://doi.org/10.1111/bjop.12745">https://doi.org/10.1111/bjop.12745</a> 
 
 </section>
 
