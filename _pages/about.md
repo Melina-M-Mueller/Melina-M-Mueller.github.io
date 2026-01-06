@@ -20,7 +20,8 @@ redirect_from:
     <img src="images/favicon-32x32.png" alt="hat" width="40" style="margin-right: 15px;">
     <div>
       <strong>MSc in Cognitive Science</strong><br>
-      University of Edinburgh, 2024
+      University of Edinburgh<br>
+      September 2023 - August 2024
     </div>
   </div>
 
@@ -28,7 +29,8 @@ redirect_from:
     <img src="images/favicon-32x32.png" alt="hat" width="40" style="margin-right: 15px;">
     <div>
       <strong>BSc in Mathematics and Psychology </strong><br>
-      University of Stirling, 2023
+      University of Stirling<br>
+      September 2019 - August 2023
     </div>
   </div>
 </section>
@@ -39,7 +41,7 @@ redirect_from:
 
 </section>
 
-<section id="teaching">
+<!-- <section id="teaching">
   <h2>Teaching</h2>
 
   <div style="display: flex; align-items: center; margin-bottom: 15px;">
@@ -57,10 +59,13 @@ redirect_from:
       University of Stirling, 2023
     </div>
   </div>
-</section>
+</section> -->
 
-<section id="cv">
+<section id="cv" markdown="1">
 
   <h2>CV</h2>
+
+  You can find my full CV [here](files/Melina Mueller_CV_websiteVersion.pdf).
+
 
 </section>

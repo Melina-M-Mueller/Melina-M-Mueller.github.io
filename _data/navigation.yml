@@ -14,8 +14,8 @@ main:
   - title: "Publications"
     url: "#publications" #/publications/
 
-  - title: "Teaching"
-    url: "#teaching" #/publications/
+  # - title: "Teaching"
+  #   url: "#teaching" #/publications/
 
   - title: "CV"
     url: "#cv" # /cv/
