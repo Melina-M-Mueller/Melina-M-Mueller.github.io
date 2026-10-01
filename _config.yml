@@ -23,7 +23,7 @@ repository               : "Melina-M-Mueller/Melina-M-Mueller.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Melina_final.jpg"
+  avatar           : "Melina_headshot.jpg"
   name             : "Melina Müller"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computational Neuroscience"
